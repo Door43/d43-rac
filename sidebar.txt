@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rac:home|Door43 (rac)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rac|d43-rac repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rac/archive/master.zip|d43-rac.zip]]
+
+**Recent Changes**
+{{changes>ns = rac}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rac|Ethnologue data]]
+
